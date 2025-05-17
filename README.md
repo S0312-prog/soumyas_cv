@@ -1,8 +1,6 @@
-<header>
 # Soumya Shree S
-_India | [Gmail](soumyashree0312@gmail.com) | [Portfolio.com](https://s0312-prog.github.io/Portfolio/)
-</header>
-
+_India | [Gmail](soumyashree0312@gmail.com) | [Portfolio.com](https://s0312-prog.github.io/Portfolio/)_
+ 
 ## Education
 University of Delhi, Miranda House, BSc in Physics (H)                                                                                      Nov 2021– July 2024
  • CGPA: 7.959/10
