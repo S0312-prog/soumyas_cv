@@ -6,7 +6,8 @@ _India | soumyashree0312@gmail.com | [Portfolio.com](https://s0312-prog.github.i
 **University of Delhi, Miranda House,** BSc in Physics (H)
 - Nov 2021– July 2024
 - **CGPA:** 7.959/10
-- **Vivekananda Pre University College,** Higher Secondary Education
+
+**Vivekananda Pre University College,** Higher Secondary Education
 - **Score:** 594/600
 - **Coursework:** Physics, Chemistry, Biology, Mathematics, English, Sanskrit
 
