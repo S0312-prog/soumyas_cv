@@ -60,6 +60,7 @@ _India | soumyashree0312@gmail.com | [Portfolio.com](https://s0312-prog.github.i
 **Software and Tools:** MESA, GRAVPOT16, TOPCAT, HEASoft/FTOOLS, Git, GitHub 
 
 **Programming:** Basic HTML, Python, LaTeX, Scilab
+
 **Astronomical Data Handling:** Spectral fitting, background correction, response file creation, data calibration, PHA/PI file processing/creation.
 
 ## Honors
