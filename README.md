@@ -57,14 +57,15 @@ _India | soumyashree0312@gmail.com | [Portfolio.com](https://s0312-prog.github.i
 
 ## Digital Skills
 
-**Software and Tools:** MESA, GRAVPOT16, TOPCAT, HEASoft/FTOOLS, Git, GitHub
+**Software and Tools:** MESA, GRAVPOT16, TOPCAT, HEASoft/FTOOLS, Git, GitHub 
+
 **Programming:** Basic HTML, Python, LaTeX, Scilab
 **Astronomical Data Handling:** Spectral fitting, background correction, response file creation, data calibration, PHA/PI file processing/creation.
 
 ## Honors
 
 **Innovation in Science Pursuit for Inspired Research (INSPIRE)– Ministry of Science and Technology
- (Government of India),** Scholarship offered to top 1 percent academic achievers in science, 2021 to 2024
+ (Government of India),** Scholarship offered to top 1 percent academic achievers in science, 2021 to 2024.
 
 ## Workshops, Conferences, and Courses
 
