@@ -1,4 +1,3 @@
-# Soumya Shree S
 _India | soumyashree0312@gmail.com | [Portfolio.com](https://s0312-prog.github.io/Portfolio/)_
  
 ## Education
